@@ -1,23 +1,5 @@
-# 🚀 FastAPI OAuth App
-
-This repository provides a clean and minimal **FastAPI OAuth** project setup using Python's built-in `venv` for virtual environment management.
-
----
-
-## 📚 Features
-
-- FastAPI server setup
-- Hot-reloading with Uvicorn
-- Environment variable configuration
-- Virtual environment via `venv`
-
----
-
-## 🛠 Tech Stack
-
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [Uvicorn](https://www.uvicorn.org/)
-- [Python Dotenv](https://pypi.org/project/python-dotenv/)
+# 🚀 Authentication for FastAPI
+A minimal and developer-friendly FastAPI OAuth setup with Python's built-in venv for virtual environment management.
 
 ---
 
@@ -26,8 +8,8 @@ This repository provides a clean and minimal **FastAPI OAuth** project setup usi
 ### 1. Clone the repository
 
 ```bash
-https://github.com/thrillraptor/OAuth-FastAPI.git
-cd OAuth-FastAPI
+https://github.com/thrillraptor/authkit-fastapi.git
+cd authkit-fastapi
 ```
 
 ### 2. Create a virtual environment using `venv`
